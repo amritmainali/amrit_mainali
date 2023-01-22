@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amritmainali
 - 👀 I’m interested in enhancing my erudition and adeptness; For the essence of thoroughly uplifting my expertise in various fields of computer dynamics.
-- 🌱 I’m currently learning CS50.
+- 🌱 I’m currently learning Engineering in Electronics, Communication, and Information technology.
 - 💞️ I’m looking to collaborate on anything new provided within my expertise.
 - 📫 You can reach me through my email address mentioned below:
 
